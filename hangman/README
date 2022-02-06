@@ -1,1 +1,4 @@
 This game is called hangman. To launch the game, open file "client.py"
+file "game.py" contains the game logic and main functions
+file graphics has code for display of gallows
+file
